@@ -1,0 +1,26 @@
+# Large model & dataset files (too big for GitHub)
+*.h5
+Dataset/
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Scratch / temp files
+scratch/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
