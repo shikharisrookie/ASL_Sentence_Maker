@@ -66,7 +66,7 @@ pip install -r requirments.txt
 ### 4. Download the model files
 The trained model (`SLR_final.h5`) and MediaPipe model (`hand_landmarker.task`) are too large for GitHub.
 
-- **`SLR_final.h5`** — train your own using `SignLanguageRecognition.ipynb`, or download from the project owner.
+- **`SLR_final.h5`** — train your own using `SignLanguageRecognition.ipynb`, or https://drive.google.com/drive/folders/1yIbzwqs0XdFYCU77ykFtXzTaqz6B4L7D?usp=sharing.
 - **`hand_landmarker.task`** — download from [MediaPipe Models](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker#models) and place in the project root.
 
 ---
