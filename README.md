@@ -116,8 +116,3 @@ pyttsx3  (optional, for text-to-speech)
 - **Classes**: 29 (A–Z + `del`, `nothing`, `space`)
 - **Training data**: [ASL Alphabet Dataset – Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
 
----
-
-## 👨‍💻 Author
-
-Built by **Shikhar** with AI assistance from **Antigravity (Google DeepMind)**.
